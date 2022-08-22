@@ -5,7 +5,7 @@ My name is Ogunmodede Joy. I'm a Developer trying out frontend at the moment and
 I am in a toxic relationship with that yellow and black language
 - 👀 I’m interested in full stack web development.
 
-I am an electrical engineering student at LAUTECH, Ogbomoso. I am also a software engineering student - ALXAfrica. Will soon start a software development certification course at SQI College of ICT, Ogbomoso.
+I am an electrical engineering student at LAUTECH, Ogbomoso. I am also a software engineering student - ALXAfrica and at SQI College of ICT, Ogbomoso.
  - I'm currently learning Javascript and Python.
 
 I hope you find what you seek.
